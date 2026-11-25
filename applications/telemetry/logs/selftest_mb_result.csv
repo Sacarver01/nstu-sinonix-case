@@ -1,2 +1,0 @@
-test_id,sid,sent,received,lost,loss_pct,max_loss_pct,verdict,latency_avg_ms,latency_max_ms,latency_p95_ms,out_of_order,acks,ack_timeouts
-selftest_mb,b2aee416,300,300,0,0.0,1.0,соответствует,0.514,1.844,0.998,0,,

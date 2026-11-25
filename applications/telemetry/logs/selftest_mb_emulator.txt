@@ -1,3 +1,0 @@
-# /opt/homebrew/opt/python@3.15/bin/python3.15 /Users/nikitakarputov/Projects/nstu-sinonix-case/applications/telemetry/modbus_emulator.py --mode tcp --host 127.0.0.1 --port 5020 --rate 100.0 --count 300 --stats-interval 0
-[INFO] modbus emulator started: sid=b2aee416 target=127.0.0.1:5020 unit=1 rate=100.0 msg/s unidirectional
-[FINAL] sent=300 elapsed=3.0s rate=100.3 msg/s sid=b2aee416
