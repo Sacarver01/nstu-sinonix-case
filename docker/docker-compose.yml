@@ -1,0 +1,12 @@
+services:
+  icap:
+    build: .
+    container_name: icap-server
+    ports:
+      - "1344:1344"
+    volumes:
+      - clamav-db:/var/lib/clamav
+      - ./logs:/var/log/c-icap
+    restart: unless-stopped
+volumes:
+  clamav-db:

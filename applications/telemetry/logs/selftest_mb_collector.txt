@@ -1,0 +1,7 @@
+[INFO] Modbus TCP server on 0.0.0.0:5020 (не отвечает, режим diode)
+[INFO] client connected from ('127.0.0.1', 52154)
+[SESSION] new sid=b2aee416
+[INFO] client ('127.0.0.1', 52154) disconnected
+
+=== SUMMARY ===
+{"sid": "b2aee416", "received": 300, "lost": 0, "out_of_order": 0, "expected_last_seq": 300, "loss_pct": 0.0, "latency_avg_ms": 0.514, "latency_min_ms": 0.111, "latency_max_ms": 1.844, "latency_p95_ms": 0.998, "source_rate_msg_s": 100.267}
